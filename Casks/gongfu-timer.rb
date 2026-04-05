@@ -1,6 +1,6 @@
 cask "gongfu-timer" do
-  version "1.2.0"
-  sha256 "5fb26eed92f793889ff09560766c632c91e35e00b1989dbe25e26fd854d810f2"
+  version "1.2.1"
+  sha256 "0a05121cb945787e90458870e222e404d35a044ebfc5b1b28d1a91a25d7cacb2"
 
   url "https://github.com/dfialkov/taskbar-gongfu-timer/releases/download/v#{version}/GongfuTimer-#{version}.zip"
   name "Gongfu Timer"
